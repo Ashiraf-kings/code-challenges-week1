@@ -1,0 +1,19 @@
+{
+  "name": "code-challenges-week1",
+  "version": "1.0.0",
+  "description": "This is week one of learning JavaScript and these are the challenges",
+  "main": "callenge6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashiraf-kings/code-challenges-week1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashiraf-kings/code-challenges-week1/issues"
+  },
+  "homepage": "https://github.com/Ashiraf-kings/code-challenges-week1#readme"
+}
