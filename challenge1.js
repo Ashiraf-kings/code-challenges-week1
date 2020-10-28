@@ -8,6 +8,6 @@ var placeOfResidence = "Kampala";
 
 var courseOffered = "Software Engneering";
 // just summerizing the whole statment in one line so that i ease work
-var personalInfo = "Hey there i am " + myName + ", i am " + myAge + "years old, " + " i stay in " + placeOfResidence + " and am also a champion offering " + courseOffered + " at smart up hub kabalagala.";
+var personalInfo = `Hey there i am ${myName}, i am ${myAge} years old, i stay in ${placeOfResidence} and am also a champion offering ${courseOffered}  at smart up hub kabalagala.`
 
 console.log(personalInfo)
